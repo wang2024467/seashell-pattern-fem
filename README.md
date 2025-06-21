@@ -4,7 +4,7 @@ This repository contains the code and Jupyter notebooks for the preprint:
 
 **"A Sufficient Condition for Asymptotic Stability in a Modified Fowler Model and Seashell Pattern Reconstruction Using PINNs"**
 
-Submitted to Zenodo (2025).
+Submitted to Zenodo (2025), available at [this DOI link](https://doi.org/10.5281/zenodo.15708010)
 
 ---
 
